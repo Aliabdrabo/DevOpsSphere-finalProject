@@ -12,7 +12,7 @@ pipeline {
         stage('Checkout Code') {
             steps {
                 echo 'Cloning the repository...'
-                git branch: 'main', url: 'https://github.com/Aliabdrabo/DevOpsSphere-project' 
+                git branch: 'main', url: 'https://github.com/Aliabdrabo/DevOpsSphere-finalProject' 
             }
         }
 
