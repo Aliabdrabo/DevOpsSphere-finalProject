@@ -36,14 +36,14 @@ This project implements a robust three-tier application architecture deployed on
 
 - **Build Docker Image**: Build an image from the Dockerfile using:
    ```bash
-   docker build -t <your-dockerhub-username>/3-tier-app:latest .
+   docker build -t <your-dockerhub-username>/3-tier-app:tag .
    
 - Push Docker Image: Push this image to a Docker registry (e.g., Docker Hub).
     ```bash
-    docker push <your-dockerhub-username>/3-tier-app:latest.
+    docker push <your-dockerhub-username>/3-tier-app:tag.
 - Run Docker Container: Run a container using the newly built image to verify functionality.
      ```bash
-     docker run -p <port>:<port> <your-dockerhub-username>/3-tier-app:latest.
+     docker run -p <port>:<port> <your-dockerhub-username>/3-tier-app:tag.
 - Verify Container: Ensure the application is accessible from the container.     
 
 ---
