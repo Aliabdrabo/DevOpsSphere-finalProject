@@ -1,8 +1,4 @@
-
-![Premium Vector _ Devops software development operations infinity symbol](https://github.com/user-attachments/assets/8315eebb-5efc-44eb-9d8e-fd4c1fb79994)
 ![DevOps Best Practices for Business Strategy Success](https://github.com/user-attachments/assets/1ec9a455-e946-4ccc-ab4f-5e59c46b918e)
-
-
 
 
 #  **DevOpsSphere-finalProject**
