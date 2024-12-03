@@ -199,7 +199,7 @@ The Ansible playbook is designed to deploy the following Kubernetes resources:
   3. Result: Once the playbook completes, Jenkins is fully operational on the KinD cluster. The web interface is available via the configured Ingress route, providing access to its pipeline management features.
   
   
-  **Benefits of Using Ansible is Consistency,Scalability,and Efficiency**
+  - Benefits of Using Ansible is Consistency,Scalability,and Efficiency
 
 
 
