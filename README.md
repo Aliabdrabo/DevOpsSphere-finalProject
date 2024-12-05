@@ -204,9 +204,9 @@ The Ansible playbook is designed to deploy the following Kubernetes resources:
   
   - Benefits of Using Ansible is Consistency,Scalability,and Efficiency
 
+---
 
-
-#### Integrating Jenkins Pipeline with Git Repository and Setting Up a Webhook
+### Integrating Jenkins Pipeline with Git Repository and Setting Up a Webhook
 
 **Once Jenkins is deployed, you can automate your CI/CD processes by integrating it with your Git repository and setting up a webhook for automatic builds on code changes**
   
